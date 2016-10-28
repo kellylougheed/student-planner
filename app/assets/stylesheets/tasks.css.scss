@@ -345,6 +345,15 @@ html .clear-completed:active {
   text-decoration: underline;
 }
 
+.author {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.author a {
+  color: #b83f45;
+}
+
 /*
   Hack to remove background from Mobile Safari.
   Can't use it globally since it destroys checkboxes in Firefox
